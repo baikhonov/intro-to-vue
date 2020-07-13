@@ -1,2 +1,2 @@
 # intro-to-vue
-Intro to Vue.js
+[Demo](https://baikhonov.github.io/intro-to-vue/)
